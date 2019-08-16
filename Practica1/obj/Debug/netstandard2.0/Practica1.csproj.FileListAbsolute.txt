@@ -1,0 +1,13 @@
+C:\Users\MSI\source\repos\Practica1\Practica1\bin\Debug\netstandard2.0\Practica1.deps.json
+C:\Users\MSI\source\repos\Practica1\Practica1\bin\Debug\netstandard2.0\Practica1.dll
+C:\Users\MSI\source\repos\Practica1\Practica1\bin\Debug\netstandard2.0\Practica1.pdb
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.dll
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\Practica1.pdb
+C:\Users\MSI\source\repos\Practica1\Practica1\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
