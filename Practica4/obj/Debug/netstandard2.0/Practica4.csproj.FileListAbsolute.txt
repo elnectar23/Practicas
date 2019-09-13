@@ -1,0 +1,9 @@
+C:\Users\MSI\source\repos\Practica4\Practica4\bin\Debug\netstandard2.0\Practica4.deps.json
+C:\Users\MSI\source\repos\Practica4\Practica4\bin\Debug\netstandard2.0\Practica4.dll
+C:\Users\MSI\source\repos\Practica4\Practica4\obj\Debug\netstandard2.0\Practica4.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Practica4\Practica4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\MSI\source\repos\Practica4\Practica4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\MSI\source\repos\Practica4\Practica4\obj\Debug\netstandard2.0\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\Practica4\Practica4\obj\Debug\netstandard2.0\Practica4.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Practica4\Practica4\obj\Debug\netstandard2.0\Practica4.AssemblyInfo.cs
+C:\Users\MSI\source\repos\Practica4\Practica4\obj\Debug\netstandard2.0\Views\PaginaMateria.xaml.g.cs

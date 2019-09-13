@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:detailviews="clr-namespace:Practica4.DetailViews"
+             xmlns:local="clr-namespace:Practica4"
+                  xmlns:Views="clr-namespace:Practica4.Views"
+                  mc:Ignorable="d"
+             x:Class="Practica4.Views.MasterDetail">
+    <MasterDetailPage.Master>
+        <local:MasterPage x:Name="masterpage"/>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+            <x:Arguments>
+                <Views:PaginaMateria/>
+            </x:Arguments>
+        </NavigationPage>
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
